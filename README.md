@@ -1,9 +1,9 @@
 ## Hi! 👋 I am Egor!
 I am Java developer who came to profession from insurance.<br>
 <br>
-Currently, I am learning algorythms and and data structures. <br>
+I am currently learning algorythms and and data structures. <br>
 I like music, guitar and coffe.<br>
-Currently, I am working on [Explore with me](https://github.com/JackobTheLion/Explore-with-me).<br>
+I am currently working on [Explore with me](https://github.com/JackobTheLion/Explore-with-me).<br>
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19093%26project%3Dexplore-with-me%26in%3D0)](https://codetime.dev)
 
 ___

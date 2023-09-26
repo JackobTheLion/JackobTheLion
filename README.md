@@ -3,8 +3,7 @@ I am Java developer who came to profession from insurance.<br>
 <br>
 I am currently learning Java and algorythms and and data structures. <br>
 I like music, guitar and coffe.<br>
-I am currently working on [Explore with me](https://github.com/JackobTheLion/Explore-with-me).<br>
-[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19093%26project%3Dexplore-with-me%26in%3D0)](https://codetime.dev)
+I am currently working on [Algorithm](https://github.com/JackobTheLion/Algorithm).<br>
 
 ___
 <p align="center">

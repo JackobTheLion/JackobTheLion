@@ -3,7 +3,7 @@ I am Java developer who came to profession from insurance.<br>
 <br>
 I am currently learning Java and algorythms and and data structures. <br>
 I like music, guitar and coffe.<br>
-I am currently working on [Algorithm](https://github.com/JackobTheLion/Algorithm).<br>
+I am currently working on [Algorithm](https://github.com/JackobTheLion/Algorithm) and [Breeder's book](https://github.com/Holy-Raven/breedersbook).<br>
 
 ___
 <p align="center">
